@@ -1,0 +1,48 @@
+
+In your own words, what is a computer really doing whenever you type a letter on a keyboard? (150 words max)
+
+What a computer is doing when you type a letter on a keyboard is first interpreting the input from the keyboard. The computer then pulls the image from memory and transmits it to the screen in the form of the letter you typed on the keyboard.
+
+
+In your own words, how do computers use input and output to create experiences? (250 words max)
+
+One way computers create experiences by collecting information from the user through input devices. Some examples of input devices are keyboards, mouses, and scanners. The mouse for example takes in input by moving the mouse causing a corresponding movement on the screen and by communicating commands to the computer by pressing the buttons on the mouse. An example of how computers use output to create an experience is by printing. When you use a printer the computer communicates to the printer what it wants to be printed and the printer outs a tangible hard copy of what was requested.
+
+Explain why software products are essentially “infinitely reproducible nothings.” (150 words max)
+
+Software products are infinitely reproducible nothings because software is not something tangible. Software is made up of code and can be reproduced and sold as many times as the developer wants it to. An example of this is a free video game from the app store.
+
+Explain in your own words how code becomes software. (150 words max)
+
+Code becomes software by using a compiler to transform the code into machine language. The compiler turns the programming language into a set of instructions for the computer to follow.
+
+Explain “algorithms” in your own words. (150 words max)
+
+An algorithm is a set of rules used to solve logical or mathematical problems. Programming languages use algorithm to do things like make you think Siri is listening and responding to your commands.
+
+Explain the DRY principle. (100 words max)
+
+The DRY principle stands for don’t repeat yourself. What this principle means is that when programming for the most part you want to do something only once and have the computer repeat itself. The DRY principle helps reduce redundancy in your code.
+
+
+In your own words, what is object-oriented programming? (100 words max)
+
+Object-oriented programming is a method in which to organize code. The four pillars of object oriented programming are abstraction, inheritance, encapsulation and polymorphism. Abstraction is process of only showing necessary features of a function. The second pillar of encapsulation means wrapping up information into a class and inheritance is using an existing class and its properties to make a new class. The last pillar of polymorphism says that a subclass can have its own behavior and still share functions of the parent class.
+
+In your own words explain data and how it relates to code. (100 Words max)
+
+Data is in everything we do in real life and also comes from all kinds of sources when coding. Data is created when you do things like send an email for example. Programmers use code for database management because data is something that is constantly being generated. Data is most popularly housed using relational databases and using a language called SQL.
+
+What is a framework? (150 words max)
+
+A framework is a platform for software development the streamlines the process by including predefined class and functions. Frameworks are used so a developer doesn’t have to reinvent the wheel every time they build a new application. An example of a framework is Django which is used for web development in Python.
+
+What is debugging? (150 words max)
+
+Debugging is troubleshooting your code. When you debug you are trying to fix the errors in your code that are making it not perform the task you want it to.
+
+Now, with more of an understanding of what code is, why do you want to learn how to code? (500 words max)
+
+I want to learn how to code because just like software products are infinitely reproducible there are also infinite things I can make using code. Learning to code will help me be more creative and to think outside the box. Coding will also put my math skills to good use and allow me to have a deeper understanding of how our world is connected through computers.
+Gyasi Sturgis-Finney
+
